@@ -26,4 +26,6 @@
     * Current record ID will be sent to Visualforce to use as ParentID when file is uploaded
     * Once a file has been uploaded, a UI message will be displayed
 
-Components Architecture
+Architecture
+
+![Architecture](https://raw.githubusercontent.com/jrattanpal/Blog-LC-VF-UploadFile/master/Resources/Assets/UploadFile_Architecture.png)
