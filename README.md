@@ -7,7 +7,7 @@
 <br/><br/>
 
 
-## Implementation Details
+### Implementation Details
 
 
 * [UploadFile_Controller.cls](https://github.com/jrattanpal/Blog-LC-VF-UploadFile/blob/master/src/classes/UploadFile_Controller.cls)
@@ -26,6 +26,10 @@
     * Current record ID will be sent to Visualforce to use as ParentID when file is uploaded
     * Once a file has been uploaded, a UI message will be displayed
 
-Architecture
+### Architecture
 
 ![Architecture](https://raw.githubusercontent.com/jrattanpal/Blog-LC-VF-UploadFile/master/Resources/Assets/UploadFile_Architecture.png)
+
+### Demo
+
+[![Demo](https://img.youtube.com/vi/BgGMUIYNP-0/0.jpg)](https://www.youtube.com/watch?v=BgGMUIYNP-0)
